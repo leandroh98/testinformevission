@@ -39,8 +39,8 @@ Integrantes:
 | :-: | :- | :- | :- | :- | :- |
 |Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
 |1\.0|JLBD|JLBCG|JLBCG|31/08/2024|Versión Original|
-
-
+|1\.1|JBD/LHO|JLBCG|JLBCG|31/08/2024|Versión Original|
+|1\.3|BH|MCLHB|MCLHB|07/09/2024|Versión Original|
 
 
 
@@ -58,11 +58,6 @@ Integrantes:
 **Versión *{1.0}***
 
 
-
-|CONTROL DE VERSIONES||||||
-| :-: | :- | :- | :- | :- | :- |
-|Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|JBD/LHO|JLBCG|JLBCG|31/08/2024|Versión Original|
 
 **INDICE GENERAL**
 #
